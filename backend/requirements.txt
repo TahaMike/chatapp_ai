@@ -1,0 +1,3 @@
+This is a random text file
+The backend requires files like trained AI model, Flask server {... app.py}
+The WhatsApp features and System workflow depends on this...
